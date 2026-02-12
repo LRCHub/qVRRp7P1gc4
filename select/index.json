@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "アスター",
+  "base_artist": "はるまきごはん",
+  "createdAt": "2026-02-12T07:18:19.036554Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アスター",
+      "artist": "はるまきごはん",
+      "has_synced": true,
+      "path": "select/01_アスター_はるまきごはん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アスター",
+      "artist": "Harumaki, Gohan",
+      "has_synced": true,
+      "path": "select/02_アスター_Harumaki,_Gohan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アスター",
+      "artist": "はるまきごはん feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/03_アスター_はるまきごはん_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アスター",
+      "artist": "はるまきごはん",
+      "has_synced": false,
+      "path": "select/04_アスター_はるまきごはん.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アスター",
+      "artist": "Harumaki Gohan",
+      "has_synced": false,
+      "path": "select/05_アスター_Harumaki_Gohan.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アスター",
+      "artist": "オレスカバンド",
+      "has_synced": false,
+      "path": "select/06_アスター_オレスカバンド.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アスター",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/07_アスター_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アスター (Asterisk)",
+      "artist": "Ore Ska Band",
+      "has_synced": false,
+      "path": "select/08_アスター_(Asterisk)_Ore_Ska_Band.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アスター",
+      "artist": "はるまきごはん",
+      "has_synced": false,
+      "path": "select/pl_01_アスター_はるまきごはん.txt"
+    }
+  ]
+}
